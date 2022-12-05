@@ -1,6 +1,5 @@
 const movies = [
     {
-      "_id" : ,
       "titre" : "Forrest Gump",
       "realisateur" : "Robert Zemeckis",
       "description" : "L'histoire de Forrest Gump: un jeune garçon en situation de handicap qui va réussir sa vie.",
